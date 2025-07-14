@@ -1,0 +1,21 @@
+************************************* Invoked: Thu Jul 10 20:17:24 2025
+[0] Arguments: C:\Users\jlope\AppData\Local\Temp\WinGet\MSYS2.MSYS2.20250622\msys2-x86_64-20250622.exe, install, --confirm-command, --root, C:\msys64
+[6] Operations sanity check succeeded.
+[16] Using metadata cache from "C:/Users/jlope/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[16] Found 0 cached items.
+[19] Loaded control script ":/metadata/installer-config/control_js"
+[20] TargetDirectoryInUse : Error : The directory you selected already exists and contains an installation. Choose a different target for installation.
+************************************* Invoked: Fri Jul 11 14:33:33 2025
+[0] Arguments: C:\Users\jlope\AppData\Local\Temp\WinGet\MSYS2.MSYS2.20250622\msys2-x86_64-20250622.exe, install, --confirm-command, --root, C:\msys64
+[14] Operations sanity check succeeded.
+[31] Using metadata cache from "C:/Users/jlope/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[32] Found 0 cached items.
+[35] Loaded control script ":/metadata/installer-config/control_js"
+[35] TargetDirectoryInUse : Error : The directory you selected already exists and contains an installation. Choose a different target for installation.
+************************************* Invoked: Fri Jul 11 18:12:12 2025
+[0] Arguments: C:\Users\jlope\AppData\Local\Temp\WinGet\MSYS2.MSYS2.20250622\msys2-x86_64-20250622.exe, install, --confirm-command, --root, C:\msys64
+[5] Operations sanity check succeeded.
+[14] Using metadata cache from "C:/Users/jlope/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[15] Found 0 cached items.
+[17] Loaded control script ":/metadata/installer-config/control_js"
+[18] TargetDirectoryInUse : Error : The directory you selected already exists and contains an installation. Choose a different target for installation.
