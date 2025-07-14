@@ -130,8 +130,9 @@ fn main() {
 
 
 
-
-    fill_polygon(&mut image, &polygon3, Color::RED, Color::WHITE, &[]);
+    fill_polygon(&mut image, &polygon1, Color::YELLOW, Color::WHITE, &[]);
+    fill_polygon(&mut image, &polygon4, Color::GREEN, Color::WHITE, &[&polygon5]);
+    fill_polygon(&mut image, &polygon5, Color::WHITE, Color::WHITE, &[]); 
 
     image.flip_vertical(); // Las imagenes en Raylib están al revés verticalmente
 
