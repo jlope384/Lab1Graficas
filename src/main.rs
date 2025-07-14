@@ -158,7 +158,7 @@ fn main() {
 
     image.flip_vertical(); // invierte el eje Y para visualización más natural
 
-    image.export_image("poligonos_rellenos.png");
+    image.export_image("out.bmp");
 
     let texture = rl.load_texture_from_image(&thread, &image).unwrap();
 
